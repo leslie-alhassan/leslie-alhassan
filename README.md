@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Leslie! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**leslie-alhassan/leslie-alhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack developer based in Toronto 🌏
 
-Here are some ideas to get you started:
+### 📫 How to Reach Me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leslie-alhassan/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+### 🛠 Skills
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,vite,jest,nodejs,express,tailwind,mysql,git,github,postman,vscode)](https://skillicons.dev)
+
+
+  
