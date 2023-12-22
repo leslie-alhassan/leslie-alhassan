@@ -6,7 +6,7 @@ I'm a Full Stack developer based in Toronto 🌏
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leslie-alhassan/)
 
   
-### 🛠 Skills
+### 🛠 Toolkit
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,vite,jest,nodejs,express,tailwind,mysql,git,github,postman,vscode)](https://skillicons.dev)
 
 
