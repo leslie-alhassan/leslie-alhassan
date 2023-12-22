@@ -7,7 +7,7 @@ I'm a Full Stack developer based in Toronto, CA 🌏
 
   
 ### 🛠 Toolkit
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,vite,jest,nodejs,express,tailwind,mysql,git,postman,vscode)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,vite,jest,nodejs,express,mysql,git,postman,vscode)](https://skillicons.dev)
 
 
   
