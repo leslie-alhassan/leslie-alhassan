@@ -1,6 +1,6 @@
 ## Hi, I'm Leslie! 👋🏾
 
-I'm a Full Stack developer based in Toronto, CA 🌏 
+I'm a Full Stack Developer based in Toronto, CA 🌏 
 
 Here, I share what I build, break and enjoy! 
 
