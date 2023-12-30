@@ -9,7 +9,7 @@ Here, I share what I build, and break and enjoy!
 
   
 ### 🛠 Toolkit
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,nextjs,vite,jest,nodejs,express,mysql,git,postman,vscode)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,next,vite,jest,nodejs,express,mysql,git,postman,vscode)](https://skillicons.dev)
 
 
   
