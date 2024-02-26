@@ -1,4 +1,4 @@
-I'm Leslie! I'm a Web Developer based in beautiful Toronto, Canada 🌏 
+I'm a Web Developer based in beautiful Toronto, Canada 🌏 
 
 Here, I share what I build, break and enjoy.
 
