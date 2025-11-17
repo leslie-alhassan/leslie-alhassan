@@ -1,5 +1,5 @@
 ```bash
-👋🏾 software developer | born in Ghana, bred in Canada, now based in Paris, France
+👋🏾 software developer | born in Ghana, bred in Canada, based in Paris, France
 
 here i share what i learn, build, and more often than not, break
 
